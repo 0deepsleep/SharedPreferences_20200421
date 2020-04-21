@@ -41,9 +41,7 @@ class MainActivity : BaseActivity() {
                     ContextUtil.setUserId(mContext, inputId)
                 }
             }
-
         }
-
     }
 
     override fun setValue() {
